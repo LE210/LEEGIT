@@ -66,48 +66,6 @@ public class MainActivity extends AppCompatActivity {
                     tv1.setText("나는 " + sleep + "시간 잠을 잡니다!");
                 }
 
-
-//                String AAA = edt2.getText().toString();
-//                String BBB = edt3.getText().toString();
-//                String CCC = edt4.getText().toString();
-//                String DDD = edt5.getText().toString();
-//                if (AAA.equals("")) {
-//                    Integer Reading = Integer.parseInt(edt3.getText().toString());
-//                    Integer English = Integer.parseInt(edt4.getText().toString());
-//                    Integer Play = Integer.parseInt(edt5.getText().toString());
-//                    Integer ADD = Reading + English + Play;
-//                    tv2.setText("나는 꿈을 위해 " + ADD + "시간 투자합니다!");
-//
-//                } else if (BBB.equals("")) {
-//                    Integer Coding = Integer.parseInt(edt2.getText().toString());
-//                    Integer English = Integer.parseInt(edt4.getText().toString());
-//                    Integer Play = Integer.parseInt(edt5.getText().toString());
-//                    Integer ADD = Coding + English + Play;
-//                    tv2.setText("나는 꿈을 위해 " + ADD + "시간 투자합니다!");
-//                } else if (CCC.equals("")) {
-//                    Integer Coding = Integer.parseInt(edt2.getText().toString());
-//                    Integer Reading = Integer.parseInt(edt3.getText().toString());
-//                    Integer Play = Integer.parseInt(edt5.getText().toString());
-//                    Integer ADD = Coding + Reading + Play;
-//                    tv2.setText("나는 꿈을 위해 " + ADD + "시간 투자합니다!");
-//                } else if (DDD.equals("")) {
-//                    Integer Coding = Integer.parseInt(edt2.getText().toString());
-//                    Integer Reading = Integer.parseInt(edt3.getText().toString());
-//                    Integer English = Integer.parseInt(edt4.getText().toString());
-//                    Integer ADD = Coding + Reading + English;
-//
-//                    tv2.setText("나는 꿈을 위해 " + ADD + "시간 투자합니다!");
-//                } else {
-//                    Integer Coding = Integer.parseInt(edt2.getText().toString());
-//                    Integer Reading = Integer.parseInt(edt3.getText().toString());
-//                    Integer English = Integer.parseInt(edt4.getText().toString());
-//                    Integer Play = Integer.parseInt(edt5.getText().toString());
-//                    Integer ADD = Coding + Reading + English + Play;
-//
-//                    tv2.setText("나는 꿈을 위해 " + ADD + "시간 투자합니다!");
-//                }
-
-
                 Integer Coding = Integer.parseInt(edt2.getText().toString());
                 Integer Reading = Integer.parseInt(edt3.getText().toString());
                 Integer English = Integer.parseInt(edt4.getText().toString());
